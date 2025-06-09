@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Divya Khunt
 
-<!--
-**divyakhunt/divyakhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 B.Tech Engineering Student | 💻 Passionate about AI/ML & Deep Learning
+- 📊 Projects: Image Captioning, Emotion Detection, Diabetes Prediction
+- 🌱 Currently learning: LLMs, Generative AI, Transfer Learning
+- ✍️ I write code that solves real-world problems
+- 💬 Ask me about anything related to ML & DL projects or Python
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyakhunt&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Let's Connect!
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/divya-khunt-142a61273/)) | [Portfolio](https://your-portfolio.com)
