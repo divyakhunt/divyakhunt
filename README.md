@@ -6,4 +6,4 @@
 - 💬 Ask me about anything related to ML & DL projects or Python
 
 ## 🔗 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/divya-khunt-142a61273/) | [Portfolio](https://your-portfolio.com)
+[LinkedIn](https://www.linkedin.com/in/divya-khunt-142a61273/) 
