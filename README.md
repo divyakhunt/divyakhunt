@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Divya Khunt
 
 - 🎓 B.Tech Engineering Student | 💻 Passionate about AI/ML & Deep Learning
-- 📊 Projects: Image Captioning, Emotion Detection, Diabetes Prediction
 - 🌱 Currently learning: LLMs, Generative AI, Transfer Learning
 - ✍️ I write code that solves real-world problems
 - 💬 Ask me about anything related to ML & DL projects or Python
