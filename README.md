@@ -4,7 +4,6 @@
   <b>Machine Learning Engineer | Deep Learning Enthusiast | Ethical AI Advocate</b><br>
   <a href="mailto:divyakhunt3325@gmail.com">📧 Email</a> • 
   <a href="https://www.linkedin.com/in/divya-khunt-142a61273/">💼 LinkedIn</a> • 
-  <a href="https://github.com/divyakhunt">💻 GitHub</a>
 </p>
 
 ---
@@ -28,7 +27,6 @@ I'm a passionate Machine Learning Engineer focused on building real-world intell
 ### 🎓 Education
 
 **B.Tech in Computer Engineering**  
-_Sarvajanik College of Engineering and Technology (SCET), Surat_  
 _Aug 2022 – May 2026 • CGPA: 9.35/10_
 
 ---
@@ -37,9 +35,3 @@ _Aug 2022 – May 2026 • CGPA: 9.35/10_
 
 Feel free to reach out for collaborations, questions, or project discussions!  
 📧 [divyakhunt3325@gmail.com](mailto:divyakhunt3325@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyakhunt&style=flat-square" alt="Profile Views" />
-</p>
