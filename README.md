@@ -27,7 +27,7 @@ I'm a passionate Machine Learning Engineer focused on building real-world intell
 ### 🎓 Education
 
 **B.Tech in Computer Engineering**  
-_Aug 2022 – May 2026 • CGPA: 9.35/10_
+_Aug 2022 – May 2026 
 
 ---
 
