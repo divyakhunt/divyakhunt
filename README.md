@@ -29,13 +29,6 @@ Currently pursuing **B.Tech in Computer Engineering**, I'm deeply motivated to i
 
 ---
 
-### 🎓 Education
-
-📘 **B.Tech in Computer Engineering**  
-_Aug 2022 – May 2026_
-
----
-
 ### 📫 Let's Connect
 
 Feel free to reach out for collaborations, questions, or project discussions!  
