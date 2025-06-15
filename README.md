@@ -3,7 +3,7 @@
 <p align="center">
   <b>Machine Learning Engineer | Deep Learning Enthusiast | Ethical AI Advocate</b><br>
   <a href="mailto:divyakhunt3325@gmail.com">📧 Email</a> • 
-  <a href="https://www.linkedin.com/in/divya-khunt-142a61273/">💼 LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/divya-khunt-142a61273/">💼 LinkedIn</a> 
 </p>
 
 ---
