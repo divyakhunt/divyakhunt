@@ -55,9 +55,21 @@ Currently pursuing **B.Tech in Computer Engineering**, I'm driven to innovate at
 
 ---
 
-## 🌐 Connect with Me
+<h2 align="center">🌐 Connect with Me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-khunt-142a61273/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyakhunt3325@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_divya_khunt_/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/divya-khunt-142a61273/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:divyakhunt3325@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
+  </a>
+  <a href="https://x.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png" alt="X"/>
+  </a>
+  <a href="https://www.instagram.com/_divya_khunt_/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+</p>
+
 
