@@ -35,13 +35,7 @@ Currently pursuing **B.Tech in Computer Engineering**, I'm driven to innovate at
 ![Word2Vec](https://img.shields.io/badge/Word2Vec-339933?style=for-the-badge&logo=google&logoColor=white)
 ![Librosa](https://img.shields.io/badge/Librosa-FF0080?style=for-the-badge&logo=librosa&logoColor=white)
 ![pyttsx3](https://img.shields.io/badge/pyttsx3-0066A1?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ---
 
